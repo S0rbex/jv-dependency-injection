@@ -99,3 +99,4 @@ class InjectorTest {
                 + "should be marked with Inject annotation to be initialized");
     }
 }
+
